@@ -156,3 +156,26 @@ footer {
     font-size: 0.9rem;
     color: #aaa;
 }
+
+/* Achievements Section */
+.achievements {
+    padding: 2rem 1rem;
+    text-align: center;
+    background: #111;
+}
+
+.achievements h2 {
+    margin-bottom: 1.5rem;
+}
+
+.achievements ul {
+    list-style: none;
+    padding: 0;
+}
+
+.achievements li {
+    margin-bottom: 0.8rem;
+    background: #222;
+    padding: 0.8rem;
+    border-radius: 5px;
+}
